@@ -1,5 +1,4 @@
 import React from 'react';
-import Todolist from './todolist';
 
 
 function Form({setInputText, setTodos, inputText, todos, setStatus}) {
